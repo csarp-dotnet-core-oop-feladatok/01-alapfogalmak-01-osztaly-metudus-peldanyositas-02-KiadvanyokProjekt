@@ -1,14 +1,19 @@
-﻿// 3.KiadvanyokProjekt
-// Készítsen különböző kiadványokkal (pl. tankönyv, atlasz, enciklopédia,…) kapcsolatos osztályokat,
-// amelyeket egy iskolai diákjai kivesznek a könyvtárból, kinyitják és olvassák, becsukják és visszaviszik a könyvtárba.
-// Példányosítsa János és Juliska objektumokat és modellezze egy napjukat!
-// Mind a ketten délután tanulnak, ezért különböző kiadványokat kell kikölcsönözzenek, tanuljanak a kiadványokból,
-// és természetesen a könyveket vissza kell jutassák a könyvtárba.
-// Az elkészült osztály dokumentálja UML diagrammal!
+﻿/*
+ /*
+A diákok a könyvtárba járnak tanulni. 
+Könyvet (Book), szótárat (Dictionary) és Lexikont (Encyclopedia) kölcsönöznek. 
+A tanulók a következő műveleteket végezhetik minden kiadvánnyal: kölcsönzés (Rent), könyvtárba visszaadás (HandBack), kiadvány kinyitása (Open), kiadvány becsukása (Close) és kiadvány olvasás (Read).
+Mindegyik metódus egy megfelelő szöveget ír ki a képernyőre (pl. „Könyv kölcsönzés.”, „Könyv kinyitás.”, „Könyv becsukás.”, Könyv visszaadás.”, Könyv olvasás.”)
+A kiírások után új sor karakter kerül a konzolra!
+A feladat megoldása megfelelő, ha a tesztek lefutnak!
+Péter egy könyvből és lexikonból, Lilla egy könyvből és szótárból tanul. Szimulálja a folyamatot!
+Az elkészült osztály dokumentálja UML diagrammal!
+*/
+*/
 
 using System;
 
-namespace gyak01_01_03
+namespace KonyvtarProjekt
 {
     class Program
     {
