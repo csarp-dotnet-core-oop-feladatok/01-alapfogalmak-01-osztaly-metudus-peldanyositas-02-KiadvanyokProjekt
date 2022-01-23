@@ -9,7 +9,6 @@ A feladat megoldása megfelelő, ha a tesztek lefutnak!
 Péter egy könyvből és lexikonból, Lilla egy könyvből és szótárból tanul. Szimulálja a folyamatot!
 Az elkészült osztály dokumentálja UML diagrammal!
 */
-*/
 
 using System;
 
