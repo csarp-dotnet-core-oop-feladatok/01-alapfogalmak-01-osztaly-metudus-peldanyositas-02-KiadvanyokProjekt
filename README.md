@@ -1,4 +1,4 @@
-Könyvtár projekt
+# 01-01-03-Publication 
 A diákok a könyvtárba járnak tanulni. Könyvet (Book), szótárat (Dictionary) és Lexikont (Encyclopedia) kölcsönöznek. A tanulók a következő műveleteket végezhetik minden kiadvánnyal: kölcsönzés (Rent), könyvtárba visszaadás (HandBack), kiadvány kinyitása (Open), kiadvány becsukása (Close) és kiadvány olvasás (Read). Mindegyik metódus egy megfelelő szöveget ír ki a képernyőre (pl. „Könyv kölcsönzés.”, „Könyv kinyitás.”, „Könyv becsukás.”, Könyv visszaadás.”, Könyv olvasás.”)
 
 
